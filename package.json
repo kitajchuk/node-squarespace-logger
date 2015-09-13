@@ -2,8 +2,8 @@
     "title": "Node Squarespace Logger",
     "name": "node-squarespace-logger",
     "description": "Shared logging utility for node-squarespace- modules",
-    "version": "0.1.0",
-    "homepage": "https://github.com/kitajchuk/node-squarespace-logger",
+    "version": "0.1.1",
+    "homepage": "https://github.com/NodeSquarespace/node-squarespace-logger",
     "readmeFilename": "README.md",
     "contributors": [
         {
@@ -14,15 +14,15 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/kitajchuk/node-squarespace-logger.git"
+        "url": "git://github.com/NodeSquarespace/node-squarespace-logger.git"
     },
     "bugs": {
-        "url": "https://github.com/kitajchuk/node-squarespace-logger/issues"
+        "url": "https://github.com/NodeSquarespace/node-squarespace-logger/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/kitajchuk/node-squarespace-logger/blob/master/LICENSE"
+            "url": "https://github.com/NodeSquarespace/node-squarespace-logger/blob/master/LICENSE"
         }
     ],
     "main": "squarespace-logger",
